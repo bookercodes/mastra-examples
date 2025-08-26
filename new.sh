@@ -1,0 +1,1 @@
+npm create mastra@latest
